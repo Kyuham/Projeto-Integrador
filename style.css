@@ -1,0 +1,53 @@
+
+.WHATSAPP {
+    height: 60px;
+    width: 60px;
+    margin: 2px;
+    position: sticky;
+}
+
+.GMAIL {
+    height: 60px;
+    width: 60px;
+    margin: 2px;
+    position: sticky;
+}
+
+.FACEBOOK {
+    height: 60px;
+    width: 60px;
+    margin: 500px;
+    margin-block: -210px;
+    position: sticky;
+}
+
+.INSTAGRAM {
+    height: 60px;
+    width: 60px;
+    margin: 500px;
+    position: sticky;
+}
+
+.LOGO {
+    height: 60px;
+    width: 60px;
+    margin-left: 10px;
+    position: sticky;
+}
+
+.CONTATOS {
+    margin-bottom: 300px;
+    position: sticky;
+}
+
+.BORDA {
+    border: 2px solid pink;
+    background-color: pink;
+    width: 1440px;
+    height: 200px;
+    position: relative;
+    top: 700px;
+    position: sticky;
+    z-index: -1;
+    
+}
